@@ -1,9 +1,10 @@
 platform :ios, '11.0'
+source 'git@github.com:BuddyBuild/Specs.git'
 
 target 'StatusBoard' do
   use_frameworks!
 
-  pod 'Dumbbell', :git => 'git@github.com:BuddyBuild/Dumbbell.git'
+  pod 'Dumbbell'
 
 end
 

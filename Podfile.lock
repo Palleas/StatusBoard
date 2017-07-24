@@ -1,21 +1,19 @@
 PODS:
   - Dumbbell (0.0.1)
+  - Keys (1.0.0)
 
 DEPENDENCIES:
-  - Dumbbell (from `git@github.com:BuddyBuild/Dumbbell.git`)
+  - Dumbbell
+  - Keys (from `Pods/CocoaPodsKeys`)
 
 EXTERNAL SOURCES:
-  Dumbbell:
-    :git: git@github.com:BuddyBuild/Dumbbell.git
-
-CHECKOUT OPTIONS:
-  Dumbbell:
-    :commit: 777ea52e9e8a960b7da49fa5bc0410bfea0b0acf
-    :git: git@github.com:BuddyBuild/Dumbbell.git
+  Keys:
+    :path: Pods/CocoaPodsKeys
 
 SPEC CHECKSUMS:
-  Dumbbell: 807a193c35a05b24d048b09c68c9acd01163321a
+  Dumbbell: 96b5de17b9cf5c7419055d99227b2714db5c6173
+  Keys: 9c35bf00f612ee1d48556f4a4b9b4551e224e90f
 
-PODFILE CHECKSUM: 774aebb287cdead80b12d7b5ea20e35d364f2ca7
+PODFILE CHECKSUM: 5e4f63a38b746721f7324d624a6fbd7c7e38c5d7
 
 COCOAPODS: 1.2.1
