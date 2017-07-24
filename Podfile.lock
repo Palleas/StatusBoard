@@ -1,0 +1,21 @@
+PODS:
+  - Dumbbell (0.0.1)
+
+DEPENDENCIES:
+  - Dumbbell (from `git@github.com:BuddyBuild/Dumbbell.git`)
+
+EXTERNAL SOURCES:
+  Dumbbell:
+    :git: git@github.com:BuddyBuild/Dumbbell.git
+
+CHECKOUT OPTIONS:
+  Dumbbell:
+    :commit: 777ea52e9e8a960b7da49fa5bc0410bfea0b0acf
+    :git: git@github.com:BuddyBuild/Dumbbell.git
+
+SPEC CHECKSUMS:
+  Dumbbell: 807a193c35a05b24d048b09c68c9acd01163321a
+
+PODFILE CHECKSUM: 774aebb287cdead80b12d7b5ea20e35d364f2ca7
+
+COCOAPODS: 1.2.1
