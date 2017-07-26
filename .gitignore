@@ -63,7 +63,6 @@ fastlane/test_output
 Packages
 .build
 xcuserdata
-*.xcodeproj
 
 ### Xcode ###
 # Xcode
@@ -75,13 +74,6 @@ xcuserdata
 ## Various settings
 
 ## Other
-
-### Xcode Patch ###
-*.xcodeproj/*
-!*.xcodeproj/project.pbxproj
-!*.xcodeproj/xcshareddata/
-!*.xcworkspace/contents.xcworkspacedata
-/*.gcno
 
 # End of https://www.gitignore.io/api/xcode,swift
 Carthage
